@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
   useEffect(() => {
-    window.location.href = 'https://amzn.to/42aFW0T';
+    window.location.href = 'https://a7a13in7khr9wu20njo5m6qu2y.hop.clickbank.net';
   }, []);
 
   return null;
